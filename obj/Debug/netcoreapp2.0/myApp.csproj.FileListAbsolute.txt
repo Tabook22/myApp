@@ -1,0 +1,10 @@
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/nassertabook/Desktop/myWorks/TestWebApi/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
